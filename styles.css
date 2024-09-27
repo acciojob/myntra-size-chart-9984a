@@ -1,2 +1,23 @@
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
 
-/* Your CSS Code here. */
+th, td {
+	border: 1px solid black;
+	padding: 8px;
+	text-align: center;
+}
+
+th {
+	background-color: #b23a3a;
+	color: white;
+}
+
+td {
+	background-color: #f0cccc;
+}
+
+.highlight {
+	background-color: #d76d6d;
+}
